@@ -2,7 +2,7 @@
 
 An end-to-end Power BI dashboard analyzing ride-hailing operations for an Uber-style platform — covering bookings, revenue, vehicle performance, customer behavior, and pickup/drop locations across a 100K+ booking dataset.
 
-![Home Page](assets/01_home.png)
+![Home Page](01_home.png)
 
 ---
 
@@ -35,7 +35,7 @@ The report has 6 pages, navigable from the Home screen:
 
 Landing page introducing the project and providing button-based navigation to every other page.
 
-![Home](assets/01_home.png)
+![Home](01_home.png)
 
 ---
 
@@ -43,7 +43,7 @@ Landing page introducing the project and providing button-based navigation to ev
 
 A single roll-up table across all six vehicle types — Total Customers, Revenue, Completed Bookings, completion %, and a per-vehicle monthly trend sparkline — with a grand total row. This is the page to check when validating numbers on any other page.
 
-![Overview](assets/03_overview.png)
+![Overview](03_overview.png)
 
 **Key totals (all vehicles combined):**
 - Total Customers: **104,114**
@@ -57,7 +57,7 @@ A single roll-up table across all six vehicle types — Total Customers, Revenue
 
 Deep-dive into a single vehicle type: booking volume by month/quarter, revenue by vehicle type (for comparison), booking value trend, top pickup/drop zones, and both driver and customer average ratings.
 
-![Vehicle](assets/04_vehicle.png)
+![Vehicle](04_vehicle.png)
 
 ---
 
@@ -65,7 +65,7 @@ Deep-dive into a single vehicle type: booking volume by month/quarter, revenue b
 
 Revenue-focused view: monthly/quarterly revenue trend, revenue split by vehicle type, revenue by payment method (UPI leads, followed by Cash), and the top revenue-generating customers.
 
-![Revenue](assets/02_revenue.png)
+![Revenue](02_revenue.png)
 
 ---
 
@@ -73,7 +73,7 @@ Revenue-focused view: monthly/quarterly revenue trend, revenue split by vehicle 
 
 Customer-centric view: customer volume trend by month/quarter, payment method preference, and a detail table listing individual customers with booking value and completed bookings — built for drilling into a specific customer's history.
 
-![Customer](assets/05_customer.png)
+![Customer](05_customer.png)
 
 ---
 
@@ -81,7 +81,7 @@ Customer-centric view: customer volume trend by month/quarter, payment method pr
 
 Geographic analysis: total distance traveled by month/quarter, distance by vehicle type, a world map of pickup locations, and a ranked list of top drop-off zones (e.g., Preet Vihar, Madipur, Rithala).
 
-![Location](assets/06_location.png)
+![Location](06_location.png)
 
 ---
 
